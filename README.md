@@ -1,2 +1,2 @@
 # agentesPrint
-agentes de impresión 
+agentes de impresión para diferentes equipos de Wibo 
